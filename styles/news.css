@@ -1,0 +1,138 @@
+*{
+    text-decoration: none;
+    list-style-type: none;
+    box-sizing: border-box;
+}
+header{
+    padding: 50px;
+}
+.logo{
+    vertical-align: middle;
+}
+nav{
+    display: inline-block;
+    vertical-align: middle;
+}
+ul{
+    display: inline-block;
+    margin-left: 20px;
+}
+li{
+    display: inline-block;
+    margin-left:50px ;
+}
+a{
+    font-size: 26px;
+    font-weight: 700;
+    color: #8D81FF;
+}
+.active{
+    color: #4E6FAE;
+}
+/*  */
+/*  */
+.banner{
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.news1{
+    display: block;
+}
+.newsh{
+    font-weight: 700;
+    font-size: 26px;
+    color: #4E6FAE;
+    margin-left:100px;
+    margin-top: 60px;
+    display: inline-block;
+}
+.line{
+    border: 1px solid #5012D5;
+    height: 17px;
+    background-color: black;
+    display: inline-block;
+    margin-left: 15px;
+}
+.newsh2{
+    display: inline-block;
+    margin-left: 18px;
+    color: #4E6FAE;
+    font-weight: 200;
+}
+/*  */
+/*  */
+/*  */
+/*  */
+
+.newsdiv{
+    display: inline-block;
+    width: 500px;
+    height: 192px;
+    background-color: #E7E7E7;
+    margin-left: 100px;
+    margin-top: 25px; 
+    padding: 15 20px;
+}
+.newsdiv h3{
+    margin:0;
+    color: #3F4145;
+    font-weight: 200; 
+}
+.newsdiv img{
+    margin-top: 25px;
+    margin-left:20px; 
+}
+.newsdiv p{
+    display: inline-block;
+    width: 325px;
+    height: 95px;
+    margin-left: 15px;
+}
+/*  */
+/*  */
+/*  */
+/*  */
+.newsdiv1{
+    width: 500px;
+    height: 192px;
+    background-color: #E7E7E7;
+    margin-left: 100px;
+    margin-top: 25px; 
+    padding: 15 20px;
+    display: inline-block;
+    vertical-align: top;
+}
+.newsdiv1 h3{
+    margin:0;
+    color: #3F4145;
+    font-weight: 200; 
+}
+.newsdiv1 img{
+     margin-top: 25px;
+     margin-left:20px; 
+}
+.newsdiv1 p{
+    display: inline-block;
+    width: 325px;
+    height: 95px;
+    margin-left: 15px;
+}
+
+footer .socialmedia{
+    margin-left:100px;
+    margin-top: 50px;
+    display: inline-block;
+}
+.mid{
+    width: 2px;
+    height: 48px;
+    background-color: black;
+    display: inline-block;
+    margin-left: 30px;
+}
+footer .socialmedia2{
+    display: inline-block;
+    margin-left: 30px;
+}
+ 
+
